@@ -19,8 +19,8 @@ app.options("*", function (req, res, next) {
 
 // Connect to MongoDB
 
-const username='pranavrai070'
-const password='KF7WhsQDJ5FTlGZQ'
+const username='mongoDbusername'
+const password='mongodbdatabasepassword'
 
 const url=`mongodb+srv://${username}:${password}@flipkart.ejltgee.mongodb.net/LoginDB`
 mongoose.connect(url, {
