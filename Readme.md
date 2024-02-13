@@ -17,14 +17,14 @@ This is a simple demo project showcasing signup and login functionality using Re
 
 ## Commands and Instructions
 # For backend
-cd server
-npm install
-to run the server : npm run dev
+- **cd server**
+- **npm install**
+- **to run the server : npm run dev**
 
 # For frontend
-cd client
-npm install
-to run the frontend : npm start
+- **cd client**
+- **npm install**
+- **to run the frontend : npm start**
 
 
 
